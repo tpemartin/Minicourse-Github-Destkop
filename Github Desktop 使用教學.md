@@ -5,7 +5,7 @@
 
 - Github Desktop: 安裝在你電腦上的【備份小精靈】，透過他，你可以選擇將某個資料匣裡的東西備份在自己電腦，或進一步備份在Github.com雲端空間。
 
-我們先假設你已經在Github.com（以下簡稱.com）註冊了一個帳號，也在你電腦安裝了Github Desktop（以下簡稱Desktop），並把Desktop設定好可以和你的.com帳號連結。  
+我們先假設你已經在Github.com（以下簡稱.com）註冊了一個帳號，也在你電腦安裝了[Github Desktop](https://desktop.github.com/)（以下簡稱Desktop），並把Desktop設定好可以和你的.com帳號連結。  
 
 ### Github使用需知   
 
