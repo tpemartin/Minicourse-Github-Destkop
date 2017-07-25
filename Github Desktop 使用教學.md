@@ -58,4 +58,4 @@ Github原本是設計來分享程式碼的，所以檔案都不會太大，請�
 
 - 當你備份完你電腦上的Minicourse-Github-Desktop資料匣到你的雲端空間後，請依以下圖示送出Pull Request給tpemartin，請他接受你的合併請求。  
 
-![image](/GIF/Desktop送出Pull_Request.gif)
+![image](/GIF/Desktop送出Pull Request.gif)
