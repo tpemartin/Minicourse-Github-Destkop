@@ -49,17 +49,10 @@
 
 ![image](/GIF/Desktop備份到com雲端.gif)  
 
+### 請求複製資料匣的源頭接受你的合併更新請求（Pull Request）   
 
-2. 打開你電腦上的Github Desktop（假設你已經裝好了，如果還沒裝請連到這裡）。依以下步驟把範例repo下載回自己電腦。
+當你和源頭使用者，如這裡的tpemartin，在合作一個計劃時，你一旦有新的進度，你除了會備份到你自己的雲端空間，還可能會希望源頭合作者接受你的更新，這個動作叫送出合併更新請求（Pull Request）。  
 
-3. 縮小Github Desktop，並切換到你範例repo在電腦上所存檔的資料匣（圖面範例是/github/Minicourse-Github-Desktop/)，在這裡專心做自己的事，下面畫面裡我做了兩作事：  
-    - 修改目錄裡的README.md  
-    - 新增一個檔案
-  
-4. 叫回Github Desktop，依範例Commit記錄上個步驟做的事，然後按Sync上傳到你的Github帳號。  
+- 當你備份完你電腦上的Minicourse-Github-Desktop資料匣到你的雲端空間後，請依以下圖示送出Pull Request給tpemartin，請他接受你的合併請求。  
 
-
-######    如果你想通知源頭repo擁有者你的更新：  
-
-5. 在Github Desktop，按New Pull Request. 
-
+![image](/GIF/Desktop送出Pull Request.gif)
