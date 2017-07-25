@@ -23,7 +23,7 @@
 
 - 請叫出Desktop備份小精靈，依以下圖示步驟在你電腦產生相同內容的資料匣。 
 
-![image](Desktop複製com資料匣.gif)
+![image](/GIF/Desktop複製com資料匣.gif)
       
 2. 打開你電腦上的Github Desktop（假設你已經裝好了，如果還沒裝請連到這裡）。依以下步驟把範例repo下載回自己電腦。
 
