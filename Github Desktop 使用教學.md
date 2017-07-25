@@ -55,4 +55,4 @@
 
 - 當你備份完你電腦上的Minicourse-Github-Desktop資料匣到你的雲端空間後，請依以下圖示送出Pull Request給tpemartin，請他接受你的合併請求。  
 
-![image](/GIF/Desktop送出Pull Request.gif)
+![image](/GIF/Desktop送出Pull_Request.gif)
