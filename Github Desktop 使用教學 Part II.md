@@ -21,3 +21,39 @@
 步驟【壹】只有clone該repo到你電腦，而在.com雲端你和源頭主人（這裡的tpemartin）其實是共用同一個repo資料匣，如果你們都各自直接對此雲端repo修改，那打架的機會很高，所以協作者應該在自己電腦上先創造一個協作分身，另外取名以和Master有所區分，這個動作叫創造協作身份 【Branch】。
 
 請依圖示用Desktop在你的電腦創造一個Branch： 
+
+![image](/GIF/Desktop創造Branch.gif)  
+
+這裡你可以注意到Desktop的右上角多了一個支節，且藍色大圓點是在新分出來的支節上，這表示你現在在你電腦上的Minicourse-Github-Desktop所做的任何事，都會記錄在這個`My-own-branch`支節上，而不會記在上面的那個`Master`支節裡。
+
+### 【參】備份電腦上的資料匣在自己電腦上 （Commit） 
+
+假設你做了一些事，之後你還是跟以前一樣會先在自己電腦上做備份承諾【Commit】。
+
+請開啟你電腦Minicourse-Github-Desktop資料匣裡的`Practice.md`檔，隨便加些字，存檔。接著，依圖示用Desktop在你的電腦做備份承諾：
+
+![image](/GIF/Desktop_commit_to_my_branch.gif)
+
+你會注意到這新的Commit是在你的分支上。
+
+### 【肆】 備份電腦上的commit到自己的.com帳號裡 （Publish or Sync）
+
+請依圖示進行雲端備份，由於是開分支之後第一次雲端備份，它會在雲端也新開一個同樣名稱的分支，才把你的Commit備份上去，由於是「第一次」做雲端分支備份，所以叫【Publish】。
+
+![image](/GIF/Desktop開佈新branch.gif)
+
+另外，有沒有注意到上圖Publish完後，同一個按鍵名稱又變成【Sync】，表示下次你在Desktop有新Commit又要備份到雲端已存在的分支時，它就會叫【Sync】—— 和以前Part I相同名稱。
+
+### 【伍】 請求雲端共同協作的主人Master接受你分支的合併更新請求（Pull Request）
+
+當你在分支Commit-Sync一陣子之後，你對你的修改滿意了，這時你會希望Master把你的修改也收回到Master主支節上，這個動作跟以前一樣叫【Pull Request】。
+
+這裡我們先依圖示，在Desktop的repo裡按滑鼠右鍵選`View on Github`把雲端的repo網頁叫出來。  
+
+![image](/GIF/Desktop_view_on_Github.gif)
+
+接著依圖示進行併入Master的合併請求：  
+
+![image](/GIF/雲端送出分支Pull_request.gif)
+
+
