@@ -56,4 +56,6 @@
 
 ![image](/GIF/雲端送出分支Pull_request.gif)
 
+###### 【練習一】  
+> 請在Desktop的Minicourse-Github-Desktop資料匣開一個新分支，再到你電腦的對應資料匣裡打開一個名為`Practice.md`的文字檔，在裡面寫些字，存檔後Commit，再Sync（或Publish）到雲端源頭，接著在Desktop打開.com源頭網頁，對Master送出一個合併到主支節的請求。我收到後會䀆快進行合併動作，之後你連到[https://github.com/tpemartin/Minicourse-Github-Destkop](https://github.com/tpemartin/Minicourse-Github-Destkop) 點開網頁上的`Practice.md`檔應該會看到你留的文字。
 
