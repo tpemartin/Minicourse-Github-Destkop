@@ -26,3 +26,12 @@
 
 這裡你可以注意到Desktop的右上角多了一個支節，且藍色大圓點是在新分出來的支節上，這表示你現在在你電腦上的Minicourse-Github-Desktop所做的任何事，都會記錄在這個`My-own-branch`支節上，而不會記在上面的那個`Master`支節裡。
 
+### 【參】備份電腦上的資料匣在自己電腦上 （Commit） 
+
+假設你做了一些事，之後你還是跟以前一樣會先在自己電腦上做備份承諾【Commit】。
+
+請開啟你電腦Minicourse-Github-Desktop資料匣裡的`Practice.md`檔，隨便加些字，存檔。接著，依圖示用Desktop在你的電腦做備份承諾：
+
+![image](/GIF/Desktop_commit_to_my_branch)
+
+你會注意要這新的Commit是在你的分支上。
