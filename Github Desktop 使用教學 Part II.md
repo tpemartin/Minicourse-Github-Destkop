@@ -32,6 +32,16 @@
 
 請開啟你電腦Minicourse-Github-Desktop資料匣裡的`Practice.md`檔，隨便加些字，存檔。接著，依圖示用Desktop在你的電腦做備份承諾：
 
-![image](/GIF/Desktop_commit_to_my_branch)
+![image](/GIF/Desktop_commit_to_my_branch.gif)
 
-你會注意要這新的Commit是在你的分支上。
+你會注意到這新的Commit是在你的分支上。
+
+### 【肆】 備份電腦上的commit到自己的.com帳號裡 （Publish or Sync）
+
+請依圖示進行雲端備份，由於是開分支之後第一次雲端備份，它會在雲端也新開一個同樣名稱的分支，才把你的Commit備份上去，由於是「第一次」做雲端分支備份，所以叫【Publish】。
+
+![image](/GIF/Desktop開佈新branch.gif)
+
+另外，有沒有注意到上圖Publish完後，同一個按鍵名稱又變成【Sync】，表示下次你在Desktop有新Commit又要備份到雲端已存在的分支時，它就會叫【Sync】—— 和以前Part I相同名稱。
+
+
