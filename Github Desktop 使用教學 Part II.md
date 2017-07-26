@@ -7,15 +7,17 @@
 
 ![image](/GIF/Different_clone_types.png)
 
-當然，你沒辦下載圖片裡的repo，因為你並不是共同協作者且那個repo是私人的。 
+當然，你沒辦法下載圖片裡的repo，因為你並不是共同協作者且那個repo是私人的。 
 
 
-以下我們回到使用之前的Minicourse-Github-Desktop資料匣為例，繼續本次的課程介紹，我假設你已經有請老師把你加到Minicourse-Github-Desktop成為Collaborator，如果是的話，而你上次也已經fork了那個資料匣，那你在這階段應該會有兩個如下的同名repo：一個有叉子圖案，是fork回自己.com帳號的；另一個有主人使用者名稱，是對方邀你協作的。
+我們回到使用之前的Minicourse-Github-Desktop資料匣為例，繼續本次的課程介紹，我假設你已經有請老師把你加到Minicourse-Github-Desktop成為Collaborator。如果是的話，而你上次也已經fork了那個資料匣，那你在這階段應該會有兩個如下的同名repo：一個有叉子圖案，是fork回自己.com帳號的；另一個有主人使用者名稱，是對方邀你協作的。（你應該有兩個Minicourse-Github-Desktop）
 
 ![image](/GIF/fork_vs_collaborate.png)  
 
-我們今天要選擇沒有叉子的`tpemartin/Minicourse-Github-Desktop`。
+我們今天要選擇沒有叉子的，也就是`tpemartin/Minicourse-Github-Desktop`，並請你將它clone回來你電腦。
 
 ### 【貳】創造協作身份（Branch）  
 
-由於你和源頭
+步驟【壹】只有clone該repo到你電腦，而在.com雲端你和源頭主人（這裡的tpemartin）其實是共用同一個repo資料匣，如果你們都各自直接對此雲端repo修改，那打架的機會很高，所以協作者應該在自己電腦上先創造一個協作分身，另外取名以和Master有所區分，這個動作叫創造協作身份 【Branch】。
+
+請依圖示用Desktop在你的電腦創造一個Branch： 
