@@ -44,4 +44,16 @@
 
 另外，有沒有注意到上圖Publish完後，同一個按鍵名稱又變成【Sync】，表示下次你在Desktop有新Commit又要備份到雲端已存在的分支時，它就會叫【Sync】—— 和以前Part I相同名稱。
 
+### 【伍】 請求雲端共同協作的主人Master接受你分支的合併更新請求（Pull Request）
+
+當你在分支Commit-Sync一陣子之後，你對你的修改滿意了，這時你會希望Master把你的修改也收回到Master主支節上，這個動作跟以前一樣叫【Pull Request】。
+
+這裡我們先依圖示，在Desktop的repo裡按滑鼠右鍵選`View on Github`把雲端的repo網頁叫出來。  
+
+![image](/GIF/Desktop_view_on_Github.gif)
+
+接著依圖示進行併入Master的合併請求：  
+
+![image](/GIF/雲端送出分支Pull_request.gif)
+
 
