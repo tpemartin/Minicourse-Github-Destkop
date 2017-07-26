@@ -21,3 +21,8 @@
 步驟【壹】只有clone該repo到你電腦，而在.com雲端你和源頭主人（這裡的tpemartin）其實是共用同一個repo資料匣，如果你們都各自直接對此雲端repo修改，那打架的機會很高，所以協作者應該在自己電腦上先創造一個協作分身，另外取名以和Master有所區分，這個動作叫創造協作身份 【Branch】。
 
 請依圖示用Desktop在你的電腦創造一個Branch： 
+
+![image](/GIF/Desktop創造Branch.gif)  
+
+這裡你可以注意到Desktop的右上角多了一個支節，且藍色大圓點是在新分出來的支節上，這表示你現在在你電腦上的Minicourse-Github-Desktop所做的任何事，都會記錄在這個`My-own-branch`支節上，而不會記在上面的那個`Master`支節裡。
+
