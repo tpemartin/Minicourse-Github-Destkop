@@ -1,4 +1,13 @@
+之前在[Part I](https://github.com/tpemartin/Minicourse-Github-Destkop/blob/master/Github%20Desktop%20%E4%BD%BF%E7%94%A8%E6%95%99%E5%AD%B8%20Part%20I.md)我們學習到以下兩個角色下的Github使用方法：
 
+- 【A】單獨個人使用  
+- 【B】在.com上複製別人的repo並參與開源協作  
+
+接下來我們要學習第三種狀況的使用：  
+
+- 【C】在.com上和別人共同協作，並使用同一個.com源頭資料匣來進行協備份記錄  
+
+請依以下步驟學習： 
 
 
 ### 【壹】 下載共同協作repo
