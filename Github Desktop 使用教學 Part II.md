@@ -16,9 +16,9 @@
 
 我們今天要選擇沒有叉子的，也就是`tpemartin/Minicourse-Github-Desktop`，並請你將它clone回來你電腦。
 
-### 【貳】創造協作身份（Branch）  
+### 【貳】創造協作分支身份（Branch）  
 
-步驟【壹】只有clone該repo到你電腦，而在.com雲端你和源頭主人（這裡的tpemartin）其實是共用同一個repo資料匣，如果你們都各自直接對此雲端repo修改，那打架的機會很高，所以協作者應該在自己電腦上先創造一個協作分身，另外取名以和Master有所區分，這個動作叫創造協作身份 【Branch】。
+步驟【壹】只有clone該repo到你電腦，而在.com雲端你和源頭主人（這裡的tpemartin）其實是共用同一個repo資料匣，如果你們都各自直接對此雲端repo修改，那打架的機會很高，所以協作者應該在自己電腦上先創造一個協作分身，另外取名以和Master有所區分，這個動作叫創造協作分支身份 【Branch】。
 
 請依圖示用Desktop在你的電腦創造一個Branch： 
 
