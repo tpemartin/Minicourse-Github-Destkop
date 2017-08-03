@@ -12,7 +12,6 @@ tttttttttttttt
 Hola.
 hello   by daniel 再試一次
 hello everyone I'm Alex
-hello everyone is Alex again (for practice ii)
 =======
 
 Guten Morgen!!!
