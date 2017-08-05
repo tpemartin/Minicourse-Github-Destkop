@@ -14,6 +14,8 @@
 
 直接進入[Part I的步驟【貳】clone](https://github.com/tpemartin/Minicourse-Github-Destkop/blob/master/Github%20Desktop%20%E4%BD%BF%E7%94%A8%E6%95%99%E5%AD%B8%20Part%20I.md#貳-在自己電腦產生對應com某個repo的資料匣-clone)，有時你會看到不屬於自己.com帳號下的repo，如下面紅色圈起來的地方。它表示有個叫jihc8251的使用者，他是lala這個資料匣（repo）的主人（Master），但他把我加入成為共同協作者（Collaborator），所以我什麼都不做，它也會出現在我的clone清單裡。這時，你可以直接依照之前的步驟【貳】，下載複製那個資料匣在你的電腦裡。
 
+> 注意：若你先前有完成fork型式的開源協作，在這個步驟你必需將clone的資料存放在和先前不同的資料匣裡，不然接下來的練習都會是在進行開源協作，而無法正確完成本課程的練習。
+
 ![image](/GIF/Different_clone_types.png)
 
 當然，你沒辦法下載圖片裡的repo，因為你並不是共同協作者且那個repo是私人的。 
